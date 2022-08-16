@@ -30,7 +30,7 @@ This project is still in under development, subsequent new features like functio
 # CodeWire
 ![CodeWire](images/Code%20Wire%20Logo.png)
 
-Try at https://ayushk7.github.io/CodeWire/
+Try at https://rahulchoudhary2676.github.io/CodeWire/
 CodeWire is a node based editor inspired by UE4 Blueprints which helps in better visualization of the code,
 and faster scripting of complex and repetitive tasks.
 It doesn't bind to any particular language.
